@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ResxDuplicateRemover/1.0.0": {
+        "runtime": {
+          "ResxDuplicateRemover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResxDuplicateRemover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
