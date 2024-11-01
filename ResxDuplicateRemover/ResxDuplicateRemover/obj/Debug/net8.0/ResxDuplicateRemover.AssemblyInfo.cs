@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResxDuplicateRemover")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+807c332e33b84cfb97d98478353c663b8a0c6c4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24cdd826aa30d899fe8471cacc9dd8a744689985")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResxDuplicateRemover")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResxDuplicateRemover")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
